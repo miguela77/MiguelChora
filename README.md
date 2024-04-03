@@ -3,51 +3,51 @@
 Create a personal portfolio using **HTML** and **CSS**. For those looking for an added challenge, feel free to incorporate **JavaScript**.
 
 ## Planning
-- [ ] 1. Look at sample portfolios in the “Inspiration & Ideas” section.
-- [ ] 2. Complete the “Brainstorming” section.
-- [ ] 3. Complete the “Wireframing” section.
-- [ ] 4. Clone or Fork the Starter Code.
+- [x] 1. Look at sample portfolios in the “Inspiration & Ideas” section.
+- [x] 2. Complete the “Brainstorming” section.
+- [x] 3. Complete the “Wireframing” section.
+- [x] 4. Clone or Fork the Starter Code.
 
 ## HTML Tasks
 
 ### All pages
-- [ ] 5. Update the title tags.
-- [ ] 6. Link a CSS file to your pages.
-- [ ] 7. Include a navbar to link pages.
-- [ ] 8. Add class attributes to your HTML elements.
+- [x] 5. Update the title tags.
+- [x] 6. Link a CSS file to your pages.
+- [x] 7. Include a navbar to link pages.
+- [x] 8. Add class attributes to your HTML elements.
 
 ### index.html
-- [ ] 9. Add a header with your name.
-- [ ] 10. Add a headshot (this could also be on your about or contact page instead).
+- [x] 9. Add a header with your name.
+- [x] 10. Add a headshot (this could also be on your about or contact page instead).
 
 ### about.html
-- [ ] 11. Include a short bio.
-- [ ] 12. Add an unordered or ordered list of your accomplishments or favorite things.
+- [x] 11. Include a short bio.
+- [x] 12. Add an unordered or ordered list of your accomplishments or favorite things.
 
 ### projects.html
 - [ ] 13. Include at least 4 coding projects. For each project, include:
     - [ ] Project name
-    - [ ] Link to GitHub repo
-    - [ ] Link to live site
+    - [x] Link to GitHub repo
+    - [x] Link to live site
     - [ ] Short description of project
-    - [ ] Screenshot of project
+    - [x] Screenshot of project
 
 ### contact.html
-- [ ] 14. Add contact info, including:
-    - [ ] GitHub account
-    - [ ] Email address
-    - [ ] LinkedIn (when completed)
-    - [ ] Resume (when completed)
+- [x] 14. Add contact info, including:
+    - [x] GitHub account
+    - [x] Email address
+    - [x] LinkedIn (when completed)
+    - [x] Resume (when completed)
 
 ## CSS Tasks
 
 ### style.css
-- [ ] 15. Add flexbox to the navbars.
-- [ ] 16. Format the size of all images.
-- [ ] 17. Style the font color.
-- [ ] 18. Style the background with a color or image.
-- [ ] 19. Adjust the spacing of your page.
-- [ ] 20. Adjust the positioning of your page.
+- [x] 15. Add flexbox to the navbars.
+- [x] 16. Format the size of all images.
+- [x] 17. Style the font color.
+- [x] 18. Style the background with a color or image.
+- [x] 19. Adjust the spacing of your page.
+- [x] 20. Adjust the positioning of your page.
 
 ## Extensions
 - [ ] Style your navbar so the style of the links change when you hover over them.
